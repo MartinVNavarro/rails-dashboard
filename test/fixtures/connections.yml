@@ -1,0 +1,11 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  ipaddress: MyString
+  email: MyString
+  created: 2023-06-02 00:56:50
+
+two:
+  ipaddress: MyString
+  email: MyString
+  created: 2023-06-02 00:56:50
